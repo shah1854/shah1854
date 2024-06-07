@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Mihir Shah!</h1>
 
-
 # 💫 About Me:
 I am a computer science student at the University of Illinois at Urbana-Champaign, currently interested and focused on, but not limited to, areas including Backend Development of Mobile/Web Applications, System & Low-Level Programming, AI/Machine Learning, Computer Networking, and Data Science.
 
