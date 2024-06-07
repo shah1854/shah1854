@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋 I'm Mihir Shah!</h1>
+
+
 # 💫 About Me:
 I am a computer science student at the University of Illinois at Urbana-Champaign, currently interested and focused on, but not limited to, areas including Backend Development of Mobile/Web Applications, System & Low-Level Programming, AI/Machine Learning, Computer Networking, and Data Science.<br>🔭 I’m currently working on full-stack applications, focusing on creating industry-level backends.<br>🌱 I’m currently learning more about OS and Computer Networking technologies using languages such as C and Go/Golang.<br>⚡ Fun fact about is that I am the captain of dance team which competes on an inter-collegiate level, achieveing top 3 at nationals this year.
 
