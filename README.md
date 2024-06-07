@@ -6,9 +6,9 @@ I am a computer science student at the University of Illinois at Urbana-Champaig
 
 
 ## 🚀 What I'm Up To
-🔭 I’m currently working on full-stack applications, focusing on creating industry-level backends.<be>
-🌱 I’m learning more about OS and Computer Networking technologies using languages like C and Go/Golang.<be>
-⚡ Fun fact about me is that I am the captain of a dance team that competes on an inter-collegiate level, achieving top 3 at nationals this year.<be>
+- 🔭 I’m currently working on full-stack applications, focusing on creating industry-level backends.<be>
+- 🌱 I’m learning more about OS and Computer Networking technologies using languages like C and Go/Golang.<be>
+- ⚡ Fun fact about me is that I am the captain of a dance team that competes on an inter-collegiate level, achieving top 3 at nationals this year.<be>
 
 
 ## 🌐 Connect with Me:
