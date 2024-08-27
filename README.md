@@ -11,7 +11,7 @@ I am a computer science student at the University of Illinois at Urbana-Champaig
 
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mshah07/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mshah07/) 
 
 
 # 💻 Tech Stack:
